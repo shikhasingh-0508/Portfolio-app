@@ -1,17 +1,1 @@
-# personal_portfolio
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Personal Portfolio AppProject OverviewA sophisticated and interactive digital portfolio built with Flutter to showcase my academic journey, technical skills, and software engineering projects. The application features a responsive interface, custom navigation, and a developer-inspired aesthetic, providing an engaging and professional user experience across multiple devices.FeaturesProfessional PortfolioClean and responsive user interface.  Comprehensive overview of academic background and professional experience .  Well-organized, categorized portfolio sections.  Dynamic NavigationCustom navigation system using a Bottom Navigation Bar.  Interactive Terminal Log footer displaying live navigation feedback for a developer-centric experience.Smooth page transitions between screens.  Interactive User ExperienceBoot-up style Splash Screen with a simulated loading sequence.  Interactive profile section with hidden easter eggs (Welcome greeting).Developer-themed animations throughout the application.  Data-Driven ArchitectureModular project management using custom Dart models.  Easily expandable project list.  Clean separation of concerns between UI, logic, and data layers.  Modern Design & AccessibilityHero Animations: Smooth, animated transitions between project cards and detailed project pages.  Theme Support: Full Light Mode and Dark Mode support that automatically follows system settings.  Skill Visualization: Interactive progress indicators for technical proficiencies and categorized skill chips.  Technologies UsedFramework: Flutter   Language: Dart   Design: Material Design 3, Responsive Layouts   Architecture: Modular Flutter Architecture   Animations: Hero Animations   Project Structure
